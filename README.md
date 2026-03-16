@@ -17,7 +17,7 @@ Busco oportunidades como **Engenheiro de Dados**, mas também estou aberto a fun
 - **Nuvem:** Conhecimentos em Azure e AWS.
 
 ### 📁 Projetos em Destaque
-- **[sistema-gestão-dados.sql](https://github.com/Nicolas2Michels/sistema-gestão-dados.sql):** Desenvolvimento de arquitetura de banco de dados e manipulação de dados via SQL.
+- **[sistema-gestao-dados-sql](https://github.com/Nicolas2Michels/sistema-gestao-dados-sql):** Desenvolvimento de arquitetura de banco de dados e manipulação de dados via SQL.
 - **[TrabalhoFinal-ProjetoWeb](https://github.com/Nicolas2Michels/TrabalhoFinal-ProjetoWeb):** Projeto Fullstack integrando conceitos de desenvolvimento web.
 
 ### 🎓 Formação
