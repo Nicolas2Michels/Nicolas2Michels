@@ -25,7 +25,7 @@ Busco oportunidades como **Engenheiro de Dados**, mas também estou aberto a fun
 - **Graduação:** Engenharia de Software.
 
 ### 📫 Contato & Redes
-- **LinkedIn:** [Nicolas Michels](https://www.linkedin.com/in/nicolasmmichels)
+- **LinkedIn:** [Nicolas Michels](https://www.linkedin.com/in/nicolas2michels)
 - **Instagram Pessoal:** [@nicolas.maggio.michels](https://www.instagram.com/nicolas.maggio.michels)
 - **Projeto Automotivo:** [@jetta.smurf](https://www.instagram.com/jetta.smurf) (SC JETTA CLUB)
 
