@@ -1,4 +1,4 @@
-# Nicolas M. M. Michels
+# Nicolas Michels
 ### Engenheiro de Software | Especialista em Ciência de Dados & IA | Foco em Engenharia de Dados
 
 Olá! Sou o Nicolas Michels. Sou Engenheiro de Software por formação e pós-graduado em Ciência de Dados e Inteligência Artificial. Atualmente, estou focado na transição consolidada para a área de **Engenharia de Dados**, aplicando conceitos sólidos de arquitetura de pipelines, automação de fluxos e otimização de infraestrutura sobre ambiente Linux (Debian/XFCE).
