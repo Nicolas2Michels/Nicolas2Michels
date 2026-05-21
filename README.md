@@ -1,5 +1,5 @@
 # Nicolas Michels
-### Engenheiro de Software | Especialista em Ciência de Dados & IA | Foco em Engenharia de Dados
+### Engenheiro de Software | Pós-Graduado em Ciência de Dados & IA | Foco em Engenharia de Dados
 
 Olá! Sou o Nicolas Michels. Sou Engenheiro de Software por formação e pós-graduado em Ciência de Dados e Inteligência Artificial. Atualmente, estou focado na transição consolidada para a área de **Engenharia de Dados**, aplicando conceitos sólidos de arquitetura de pipelines, automação de fluxos e otimização de infraestrutura sobre ambiente Linux (Debian/XFCE).
 
@@ -33,15 +33,10 @@ Atuar como **Engenheiro de Dados**, focado no desenho, construção e manutenç�
 
 ## 📂 Projetos em Destaque
 
-### 🏎️ [etl-automotive-evento-hub](https://github.com/Nicolas2Michels/etl-automotive-evento-hub)
+### 🏎️ [etl-automotive-events-hub](https://github.com/Nicolas2Michels/etl-automotive-events-hub)
 **Pipeline de Dados (ETL) para Gestão de Eventos Automotivos**
-- **Descrição:** Desenvolvimento de um pipeline completo em Python focado na extração, limpeza, transformação e ingestão de dados de eventos e encontros automotivos (focado no ecossistema do SC Jetta Club).
+- **Descrição:** Desenvolvimento de um pipeline em Python focado na extração, limpeza, transformação e ingestão de dados de eventos e encontros automotivos (focado no ecossistema do SC Jetta Club).
 - **Tecnologias:** Python, Pandas, Manipulação de Arquivos e Carga Estruturada.
-
-### 📊 [sistema-gestao-dados-sql](https://github.com/Nicolas2Michels/sistema-gestao-dados-sql)
-**Modelagem de Arquitetura de Banco de Dados & SQL Avançado**
-- **Descrição:** Projeto focado na criação de esquemas complexos de bancos de dados relacionais, criação de chaves (primárias/estrangeiras), índices de performance e queries otimizadas para manipulação de grandes volumes de dados.
-- **Tecnologias:** SQL, PostgreSQL/MySQL, Modelagem Relacional.
 
 ### 🌐 [sistema-gestao-web](https://github.com/Nicolas2Michels/TrabalhoFinal-ProjetoWeb)
 **Aplicação Fullstack de Gerenciamento Web**
@@ -51,8 +46,12 @@ Atuar como **Engenheiro de Dados**, focado no desenho, construção e manutenç�
 ---
 
 ## 🎓 Formação Acadêmica
+
 - **Pós-Graduação Lato Sensu:** Ciência de Dados e Inteligência Artificial (Concluída em Janeiro de 2026).
-- **Graduação:** Engenharia de Software.
+- **Graduação:** Engenharia de Software (Concluída em Junho de 2025).
+
+### 📚 Formação Complementar & Certificações (Em Andamento)
+- **Formação em Engenharia de Dados:** Desenvolvimento direcionado a Python para Dados, Modelagem de Bancos de Dados (SQL), Docker, Airflow e construção de Pipelines de ETL/ELT.
 
 ---
 
